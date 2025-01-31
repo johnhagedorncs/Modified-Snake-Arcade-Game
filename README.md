@@ -1,4 +1,4 @@
-# Modified Snake Arcade Game on Arduino Uno
+# Modified Snake Arcade Game
 
 A **real-time arcade game** built for the Arduino Uno platform, featuring a modified version of the classic Snake game with additional gameplay elements like golden apples, fake apples, stars, and poop obstacles. The game is displayed on a TFT screen and controlled using a joystick.
 
